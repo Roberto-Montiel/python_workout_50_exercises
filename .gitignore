@@ -1,0 +1,25 @@
+# Copyright / material no redistribuible
+Python_Workout_50_ten_minute_exercises_Manning_Publications_2020.pdf
+
+# Entorno virtual
+.venv/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Herramientas / editor
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
