@@ -36,5 +36,5 @@ This project reflects how I approach learning:
 
 ## Notes
 
-- The original book PDF is intentionally not included in this repository.
+- The original book is intentionally not included in this repository.
 - This repo is focused on my personal practice, notes, and exercise work.
