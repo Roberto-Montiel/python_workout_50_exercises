@@ -1,0 +1,7 @@
+username;alice;str
+user_id;1000;int
+is_admin;False;bool
+balance;45.75;float
+groups;['users', 'developers', 'docker'];list
+settings;{'theme': 'dark', 'notifications': True};dict
+last_login;;NoneType

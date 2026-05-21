@@ -1,0 +1,107 @@
+[
+  {
+    "name": ".gitignore",
+    "size": 321,
+    "modified": "2026-04-14T18:36:55.791992+00:00"
+  },
+  {
+    "name": "1_numeric_types.ipynb",
+    "size": 6989,
+    "modified": "2026-04-15T09:52:26.604802+00:00"
+  },
+  {
+    "name": "2_strings.ipynb",
+    "size": 7209,
+    "modified": "2026-04-15T09:52:26.605605+00:00"
+  },
+  {
+    "name": "3_list_and_tuples.ipynb",
+    "size": 11298,
+    "modified": "2026-04-15T09:52:26.609844+00:00"
+  },
+  {
+    "name": "4_dictionaries_and_sets.ipynb",
+    "size": 11356,
+    "modified": "2026-05-06T11:30:05.117340+00:00"
+  },
+  {
+    "name": "5_files.ipynb",
+    "size": 41281,
+    "modified": "2026-05-20T08:09:17.120413+00:00"
+  },
+  {
+    "name": "chapter5_12.txt",
+    "size": 603,
+    "modified": "2026-05-06T12:16:27.673643+00:00"
+  },
+  {
+    "name": "chapter5_13.txt",
+    "size": 55,
+    "modified": "2026-05-06T12:34:17.918319+00:00"
+  },
+  {
+    "name": "chapter5_14.txt",
+    "size": 573,
+    "modified": "2026-05-06T13:17:44.896112+00:00"
+  },
+  {
+    "name": "dialect_csv.pdf",
+    "size": 30191,
+    "modified": "2026-05-18T09:00:08.455365+00:00"
+  },
+  {
+    "name": "ejercicio_texto.txt",
+    "size": 428,
+    "modified": "2026-04-06T08:18:00.268478+00:00"
+  },
+  {
+    "name": "exercise22_numbers.csv",
+    "size": 310,
+    "modified": "2026-05-18T11:16:43.179048+00:00"
+  },
+  {
+    "name": "LICENSE",
+    "size": 1093,
+    "modified": "2026-04-15T07:47:03.611356+00:00"
+  },
+  {
+    "name": "mini-access-log.txt",
+    "size": 36562,
+    "modified": "2026-05-16T10:03:32.870786+00:00"
+  },
+  {
+    "name": "output_exercise22_extension2",
+    "size": 205,
+    "modified": "2026-05-18T10:41:56.927279+00:00"
+  },
+  {
+    "name": "output_exercise24.json",
+    "size": 11283,
+    "modified": "2026-05-19T10:59:31.869739+00:00"
+  },
+  {
+    "name": "output_exercise24_3.json",
+    "size": 2385,
+    "modified": "2026-05-20T07:38:52.384854+00:00"
+  },
+  {
+    "name": "passwd.txt",
+    "size": 5633,
+    "modified": "2026-05-08T11:06:57.820223+00:00"
+  },
+  {
+    "name": "Python_Workout_50_ten_minute_exercises_Manning_Publications_2020.pdf",
+    "size": 8544305,
+    "modified": "2025-09-30T17:37:17.681274+00:00"
+  },
+  {
+    "name": "README.md",
+    "size": 1957,
+    "modified": "2026-04-15T11:33:59.318994+00:00"
+  },
+  {
+    "name": "wcfile.txt",
+    "size": 174,
+    "modified": "2026-05-11T11:08:41.657170+00:00"
+  }
+]
