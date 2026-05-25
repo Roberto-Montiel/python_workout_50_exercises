@@ -22,8 +22,9 @@ At the moment, I have worked through these sections:
 - `3_list_and_tuples.ipynb`
 - `4_dictionaries_and_sets.ipynb`
 - `5_files.ipynb`
+- `6_functions.ipynb`
 
-Current visible progress in this repository: `5` notebooks completed and organized.
+Current visible progress in this repository: `6` notebooks completed and organized.
 
 ## What This Shows
 
