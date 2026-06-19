@@ -23,8 +23,10 @@ At the moment, I have worked through these sections:
 - `4_dictionaries_and_sets.ipynb`
 - `5_files.ipynb`
 - `6_functions.ipynb`
+- `7_functional_programming_comprehensions.ipynb`
+- `9_objects.ipynb`
 
-Current visible progress in this repository: `6` notebooks completed and organized.
+Current visible progress in this repository: `8` notebooks completed and organized: chapters `1-7` and `9`.
 
 ## What This Shows
 
