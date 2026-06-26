@@ -25,7 +25,6 @@ The book practice is completed across these notebooks:
 - `9_objects.ipynb`
 - `10_iterators_and_generators.ipynb`
 
-Each exercise block starts with a very short English code comment describing what the exercise does.
 
 ## What This Shows
 
