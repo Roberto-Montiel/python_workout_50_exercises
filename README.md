@@ -1,21 +1,19 @@
-# Python Workout Practice
+# Python Workout: Completed Practice Notes
 
-This repository documents my day-to-day Python practice based on the book *Python Workout: 50 Ten-Minute Exercises* by Reuven M. Lerner.
+This repository contains my completed notebook work for *Python Workout: 50 Ten-Minute Exercises* by Reuven M. Lerner.
 
-My goal is simple: keep Python sharp through consistent repetition, short exercises, and hands-on problem solving. I treat programming skill as something that has to be trained regularly, not something you learn once and keep forever.
-
-Instead of only reading theory, I am working through practical exercises and writing my own notes and solutions in notebooks. This helps me reinforce syntax, problem-solving patterns, and core language features through repetition.
+The goal of this project was to keep Python fundamentals sharp through short, practical exercises. Each notebook includes my own solutions, notes, and small variations built while working through the book.
 
 ## Why This Repository Exists
 
 - To build discipline through regular coding practice
 - To strengthen Python fundamentals with small, focused exercises
-- To avoid losing fluency by staying in contact with the language every week
-- To keep a visible record of progress over time
+- To practice problem solving across core Python topics
+- To keep a visible record of the completed learning path
 
-## Current Progress
+## Completed Notebooks
 
-At the moment, I have worked through these sections:
+The book practice is completed across these notebooks:
 
 - `1_numeric_types.ipynb`
 - `2_strings.ipynb`
@@ -25,8 +23,9 @@ At the moment, I have worked through these sections:
 - `6_functions.ipynb`
 - `7_functional_programming_comprehensions.ipynb`
 - `9_objects.ipynb`
+- `10_iterators_and_generators.ipynb`
 
-Current visible progress in this repository: `8` notebooks completed and organized: chapters `1-7` and `9`.
+Each exercise block starts with a very short English code comment describing what the exercise does.
 
 ## What This Shows
 
@@ -40,8 +39,8 @@ This project reflects how I approach learning:
 ## Notes
 
 - The exercises in this repository are based on *Python Workout: 50 Ten-Minute Exercises* by Reuven M. Lerner.
-- The original book is intentionally not included in this repository.
-- This repo is focused on my personal practice, notes, and exercise work.
+- This repo is focused on my personal practice, notes, and exercise solutions.
+- It is not a replacement for the original book.
 
 ## Notebook Viewing
 
